@@ -38,7 +38,7 @@ Solutions provided are completed in C.
   - Is this my tail? (Not uploaded)
   - Basic Mathematical Operations (Not uploaded)
   - Remove First and Last Character (Not uploaded)
-  - MakeUpperCase (Not uploaded)
+  - MakeUpperCase (Uploaded)
   
 7th Kyu:
   - Going to the cinema (Not uploaded)
