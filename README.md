@@ -5,9 +5,9 @@ If you find the name of a solution you need but it is listed as "Not uploaded", 
 Solutions provided are completed in C.
 
 8th Kyu:
-  - Count of positives / sum of negatives (Uploaded)
-  - My head is at the wrong end! (Uploaded)
-  - Grasshopper - Personalized Message (Uploaded)
+  - Count of positives / sum of negatives (Uploaded) - count_positives_sum_negatives.c
+  - My head is at the wrong end! (Uploaded) - fix_the_meerkat.c
+  - Grasshopper - Personalized Message (Uploaded) - greet.c
   - Keep Hydrated! (Not uploaded)
   - Invert values (Not uploaded)
   - Multiply (Not uploaded)
@@ -38,14 +38,14 @@ Solutions provided are completed in C.
   - Is this my tail? (Not uploaded)
   - Basic Mathematical Operations (Not uploaded)
   - Remove First and Last Character (Not uploaded)
-  - MakeUpperCase (Uploaded)
+  - MakeUpperCase (Uploaded) - makeUpperCase.c
   
 7th Kyu:
   - Going to the cinema (Not uploaded)
-  - Send in the Clones (Not uploaded)
+  - Send in the Clones (Uploaded) - accum.c
   - Growth of a Population (Not uploaded)
   - Exes and Ohs (Not uploaded)
-  - Mumbling (Uploaded)
+  - Mumbling (Uploaded) - clonewars.c
   - Sum of odd numbers (Not uploaded)
   
 6th kyu:
