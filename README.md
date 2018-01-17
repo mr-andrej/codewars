@@ -36,4 +36,15 @@ Solutions in C I've completed for challenges on the website Codewars:
   - Basic Mathematical Operations (Not uploaded)
   - Remove First and Last Character (Not uploaded)
   - MakeUpperCase (Not uploaded)
+  
 7th Kyu:
+  - Going to the cinema (Not uploaded)
+  - Send in the Clones (Not uploaded)
+  - Growth of a Population (Not uploaded)
+  - Exes and Ohs (Not uploaded)
+  - Mumbling (Not uploaded)
+  - Sum of odd numbers (Not uploaded)
+  
+6th kyu:
+  - 
+
