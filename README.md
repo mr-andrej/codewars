@@ -1,7 +1,7 @@
 # Codewars Solutions (for the desperate or the fatally lazy)
-# Feel free to contribute to the list if you have any of your own clever solutions.
-# The highest I've solved is kyu 6, so the addition of solutions for kyu 5 or lower would be much obliged.
-# If you find the name of a solution you need but it is listed as "Not uploaded", wait a day or two for it to be added.
+Feel free to contribute to the list if you have any of your own clever solutions.
+The highest I've solved is kyu 6, so the addition of solutions for kyu 5 or lower would be much obliged.
+If you find the name of a solution you need but it is listed as "Not uploaded", wait a day or two for it to be added.
 Solutions in C I've completed for challenges on the website Codewars:
 
 8th Kyu:
