@@ -1,4 +1,7 @@
-# Codewars Solutions (for the desperate or lazy)
+# Codewars Solutions (for the desperate or the fatally lazy)
+# Feel free to contribute to the list if you have any of your own clever solutions.
+# The highest I've solved is kyu 6, so the addition of solutions for kyu 5 or lower would be much obliged.
+# If you find the name of a solution you need but it is listed as "Not uploaded", wait a day or two for it to be added.
 Solutions in C I've completed for challenges on the website Codewars:
 
 8th Kyu:
@@ -46,5 +49,11 @@ Solutions in C I've completed for challenges on the website Codewars:
   - Sum of odd numbers (Not uploaded)
   
 6th kyu:
-  - 
+  - Banker's Plan (Not uploaded)
+  - Find The Parity Outlier (Not uploaded)
+  - Buying a car (Not uploaded)
+  - Mysterious function (Not uploaded)
+  - Multiples of 3 or 5 (Not uploaded)
+  - Equal Sides Of An Array (Not uploaded)
+  - Are they the "same"? (Not uploaded)
 
