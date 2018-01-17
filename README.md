@@ -45,7 +45,7 @@ Solutions provided are completed in C.
   - Send in the Clones (Not uploaded)
   - Growth of a Population (Not uploaded)
   - Exes and Ohs (Not uploaded)
-  - Mumbling (Not uploaded)
+  - Mumbling (Uploaded)
   - Sum of odd numbers (Not uploaded)
   
 6th kyu:
