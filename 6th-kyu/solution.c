@@ -1,6 +1,6 @@
 // Written by mr-andrej
 // "Multiples of 3 or 5" by jhoffner
-// hhttps://www.codewars.com/kata/514b92a657cdc65150000006
+// https://www.codewars.com/kata/514b92a657cdc65150000006
 // Kyu: 6
 int solution(int number) {
     int sum = 0;
