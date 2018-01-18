@@ -8,4 +8,4 @@ void count_positives_sum_negatives(int *values, size_t count, int *positivesCoun
   {
     while (count--)
       values[count] <= 0 ? (*negativesSum) += values[count] : (*positivesCount)++;
-  }
+}
