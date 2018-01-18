@@ -49,7 +49,7 @@ Solutions provided are completed in C.
   - Sum of odd numbers (Not uploaded)
   
 6th kyu:
-  - Banker's Plan (Not uploaded)
+  - Banker's Plan (Uploaded) - fortune.c
   - Find The Parity Outlier (Not uploaded)
   - Buying a car (Not uploaded)
   - Mysterious function (Not uploaded)
