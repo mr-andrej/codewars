@@ -30,12 +30,12 @@ Solutions provided are completed in C.
   - Find Maximum and Minimum Values of a List (Not uploaded)
   - Parse nice int from char problem (Not uploaded)
   - Convert boolean values to strings 'Yes' or 'No'. (Not uploaded)
-  - Sum of positive (Not uploaded)
+  - Sum of positive (Uploaded) - positive_sum.c
   - Opposite number (Not uploaded)
   - Is the string uppercase? (Not uploaded)
   - Sum Arrays (Not uploaded)
   - Is it a palindrome? (Not uploaded)
-  - Is this my tail? (Not uploaded)
+  - Is this my tail? (Uploaded) - correct_tail.c
   - Basic Mathematical Operations (Not uploaded)
   - Remove First and Last Character (Not uploaded)
   - MakeUpperCase (Uploaded) - makeUpperCase.c
