@@ -50,7 +50,7 @@ Solutions provided are completed in C.
   
 6th kyu:
   - Banker's Plan (Uploaded) - fortune.c
-  - Find The Parity Outlier (Not uploaded)
+  - Find The Parity Outlier (Uploaded) - find_outlier.c
   - Buying a car (Not uploaded)
   - Mysterious function (Not uploaded)
   - Multiples of 3 or 5 (Not uploaded)
