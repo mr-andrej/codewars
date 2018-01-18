@@ -9,7 +9,7 @@ Solutions provided are completed in C.
   - My head is at the wrong end! (Uploaded) - fix_the_meerkat.c
   - Grasshopper - Personalized Message (Uploaded) - greet.c
   - Keep Hydrated! (Uploaded) - Liters.c
-  - Invert values (Not uploaded)
+  - Invert values (Uploaded) - invert.c
   - Multiply (Not uploaded)
   - Sum without highest and lowest number (Not uploaded)
   - How many lightsabers do you own? (Not uploaded)
