@@ -8,7 +8,7 @@ Solutions provided are completed in C.
   - Count of positives / sum of negatives (Uploaded) - count_positives_sum_negatives.c
   - My head is at the wrong end! (Uploaded) - fix_the_meerkat.c
   - Grasshopper - Personalized Message (Uploaded) - greet.c
-  - Keep Hydrated! (Not uploaded)
+  - Keep Hydrated! (Uploaded) - Liters.c
   - Invert values (Not uploaded)
   - Multiply (Not uploaded)
   - Sum without highest and lowest number (Not uploaded)
