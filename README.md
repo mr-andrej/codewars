@@ -54,6 +54,6 @@ Solutions provided are completed in C.
   - Buying a car (Uploaded) - nbMonths.c
   - Mysterious function (Not uploaded)
   - Multiples of 3 or 5 (Uploaded) - solution.c
-  - Equal Sides Of An Array (Not uploaded)
+  - Equal Sides Of An Array (Uploaded) - find_even_index.c
   - Are they the "same"? (Not uploaded)
 
