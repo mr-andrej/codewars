@@ -55,6 +55,6 @@ Solutions provided are completed in C.
   - Mysterious function (Uploaded) - get_num.c
   - Multiples of 3 or 5 (Uploaded) - solution.c
   - Equal Sides Of An Array (Uploaded) - find_even_index.c
-  - Are they the "same"? (Not uploaded)
+  - Are they the "same"? (Uploaded) - comp.c
   - Playing with digits (Uploaded) - digPow.c
 
