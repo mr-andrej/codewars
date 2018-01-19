@@ -52,7 +52,7 @@ Solutions provided are completed in C.
   - Banker's Plan (Uploaded) - fortune.c
   - Find The Parity Outlier (Uploaded) - find_outlier.c
   - Buying a car (Uploaded) - nbMonths.c
-  - Mysterious function (Not uploaded)
+  - Mysterious function (Uploaded) - get_num.c
   - Multiples of 3 or 5 (Uploaded) - solution.c
   - Equal Sides Of An Array (Uploaded) - find_even_index.c
   - Are they the "same"? (Not uploaded)
