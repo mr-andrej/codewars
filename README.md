@@ -15,7 +15,7 @@ Solutions provided are completed in C.
   - How many lightsabers do you own? (Not uploaded)
   - Volume of a Cuboid (Not uploaded)
   - N-th Power (Not uploaded)
-  - Sentence Smash (Not uploaded)
+  - Sentence Smash (Uploaded) - smash.c
   - Will there be enough space? (Not uploaded)
   - Get Nth Even Number (Not uploaded)
   - Will you make it? (Not uploaded)
