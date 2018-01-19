@@ -43,7 +43,7 @@ Solutions provided are completed in C.
 7th Kyu:
   - Going to the cinema (Not uploaded)
   - Send in the Clones (Uploaded) - accum.c
-  - Growth of a Population (Not uploaded)
+  - Growth of a Population (Uploaded) - nbYear.c
   - Exes and Ohs (Not uploaded)
   - Mumbling (Uploaded) - clonewars.c
   - Sum of odd numbers (Not uploaded)
